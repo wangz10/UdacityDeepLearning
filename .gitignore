@@ -2,3 +2,4 @@
 notMNIST_*
 *.pyc
 *.pickle
+*.zip
